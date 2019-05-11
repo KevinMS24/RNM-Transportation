@@ -1,0 +1,15 @@
+// Color overrides
+@import "./custom.sass";
+@import "./variables.scss";
+
+$teal: #20c997;
+$purple: #6f42c1;
+
+// Set primary color to orange
+$primary: $teal;
+
+@import "bootstrap/scss/bootstrap.scss";
+
+
+
+
